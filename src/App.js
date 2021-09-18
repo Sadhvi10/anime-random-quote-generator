@@ -30,9 +30,9 @@ function App() {
           <h2 className='font-inter font-black text-6xl text-[#1f2937] mb-5'>
             Animechan
           </h2>
-          <a className='bg-gradient-to-r from-yellow-500 via-red-400 to-purple-600 text-transparent bg-clip-text rounded-full py-1 px-2 mb-5 font-inter font-black  tracking-tighter text-xl'>
+          <p className='bg-gradient-to-r from-yellow-500 via-red-400 to-purple-600 text-transparent bg-clip-text rounded-full py-1 px-2 mb-5 font-inter font-black  tracking-tighter text-xl'>
             {randomQuote.anime}
-          </a>
+          </p>
           <p className='font-inter font-medium text-lg text-[#1f2937]'>
             <ImQuotesLeft style={{ marginTop: 15, marginBottom: 15 }} />
             {randomQuote.quote}
