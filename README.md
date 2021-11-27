@@ -6,6 +6,7 @@ This project is built using React.js and TailwindCSS. This built uses Animechan 
 https://animechan-react.netlify.app/
 
 ## Screenshots
+![Anime Random Quote Generator](animechan.png)
 
 ### API Link
 https://animechan.vercel.app/
