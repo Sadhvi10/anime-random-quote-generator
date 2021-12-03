@@ -1,6 +1,6 @@
 function Header() {
   return (
-    <header className='sticky top-0 w-full flex justify-center text-white font-inter font-bold tracking-wide py-1 bg-gradient-to-r from-yellow-500 via-red-400  to-purple-600 '>
+    <header className='sticky top-0 w-full flex justify-center text-gray-50 font-inter font-bold tracking-wide py-1 bg-gradient-to-r from-yellow-500 via-red-400  to-purple-600 '>
       <svg
         xmlns='http://www.w3.org/2000/svg'
         class='icon icon-tabler icon-tabler-confetti mr-2'
